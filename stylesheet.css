@@ -185,6 +185,24 @@ nav ul li a:hover {
   cursor: pointer;
 }
 
+#founder{
+  text-align: center;
+}
+
+.img{
+  width: auto;
+  height: 150px;
+  margin-left: 100px;
+}
+
+.founderDetails {
+  margin: 10px;
+  padding: 20px;
+  border-radius: 5px;
+  display: inline-block;
+  vertical-align: top;
+}
+
 footer {
   background-color: #0e0d41;
   color: white;
